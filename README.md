@@ -1,0 +1,2 @@
+# ejercicioHerencia
+Trabajo de Herencia.
