@@ -1,2 +1,2 @@
 # ejercicioHerencia
-Trabajo de Herencia.
+Trabajo de Herencia de programación I.
